@@ -1,0 +1,44 @@
+body {
+    background-image: url("london.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+    text-align: center;
+    padding-left:  15%;
+    padding-top: 7%;
+    padding-right: 15%;
+    align-content: center;}
+
+h1, p {
+    color: aliceblue;
+    background-color: rgb(61, 61, 61);
+
+    text-align: center;
+    align-content: center;
+}
+
+h1 {
+    color: aliceblue;
+    padding-top: 0%;
+    background-color: rgb(61, 61, 61);
+    padding-left: -5%;
+    padding-right: -5%;
+
+}
+img {
+
+    align-content: center;
+}
+
+a:link, a:visited {
+    background-color: #000000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(145, 83, 83);
+  }
